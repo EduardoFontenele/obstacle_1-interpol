@@ -1,0 +1,3 @@
+C:/Users/Eduardo/Desktop/pehsword/build/CMakeFiles/pehsword.dir
+C:/Users/Eduardo/Desktop/pehsword/build/CMakeFiles/edit_cache.dir
+C:/Users/Eduardo/Desktop/pehsword/build/CMakeFiles/rebuild_cache.dir

@@ -31,6 +31,7 @@ CMakeFiles/pehsword.dir/impl/signUpMenu.c.obj: C:/Users/Eduardo/Desktop/pehsword
   C:/Users/Eduardo/Desktop/pehsword/headers/signUpMenu.h \
   C:/Users/Eduardo/Desktop/pehsword/headers/utils.h \
   C:/MinGW/include/_mingw.h \
+  C:/MinGW/include/conio.h \
   C:/MinGW/include/msvcrtver.h \
   C:/MinGW/include/sdkddkver.h \
   C:/MinGW/include/stdio.h \
@@ -88,6 +89,8 @@ C:/Users/Eduardo/Desktop/pehsword/impl/main.c:
 C:/Users/Eduardo/Desktop/pehsword/headers/signUpMenu.h:
 
 C:/MinGW/include/stdlib.h:
+
+C:/MinGW/include/conio.h:
 
 C:/MinGW/include/string.h:
 

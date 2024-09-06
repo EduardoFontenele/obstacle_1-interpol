@@ -9,5 +9,6 @@ CMakeFiles/pehsword.dir/impl/signUpMenu.c.obj: \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\stdbool.h \
  c:\mingw\include\stdlib.h c:\mingw\include\string.h \
  c:\mingw\include\strings.h c:\mingw\include\wchar.h \
+ c:\mingw\include\conio.h \
  C:/Users/Eduardo/Desktop/pehsword/headers/signUpMenu.h \
  C:/Users/Eduardo/Desktop/pehsword/headers/utils.h

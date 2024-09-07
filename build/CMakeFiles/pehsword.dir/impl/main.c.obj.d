@@ -6,7 +6,8 @@ CMakeFiles/pehsword.dir/impl/main.c.obj: \
  c:\mingw\include\sys/types.h \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\stdarg.h \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\stdbool.h \
- c:\mingw\include\stdlib.h \
+ c:\mingw\include\stdlib.h c:\mingw\include\string.h \
+ c:\mingw\include\strings.h c:\mingw\include\wchar.h \
  C:/Users/Eduardo/Desktop/pehsword/headers/initialMenu.h \
  C:/Users/Eduardo/Desktop/pehsword/headers/signUpMenu.h \
  C:/Users/Eduardo/Desktop/pehsword/headers/utils.h

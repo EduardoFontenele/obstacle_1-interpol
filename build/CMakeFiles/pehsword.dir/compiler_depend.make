@@ -21,8 +21,11 @@ CMakeFiles/pehsword.dir/impl/main.c.obj: C:/Users/Eduardo/Desktop/pehsword/impl/
   C:/MinGW/include/sdkddkver.h \
   C:/MinGW/include/stdio.h \
   C:/MinGW/include/stdlib.h \
+  C:/MinGW/include/string.h \
+  C:/MinGW/include/strings.h \
   C:/MinGW/include/sys/types.h \
   C:/MinGW/include/w32api.h \
+  C:/MinGW/include/wchar.h \
   C:/MinGW/lib/gcc/mingw32/6.3.0/include/stdarg.h \
   C:/MinGW/lib/gcc/mingw32/6.3.0/include/stdbool.h \
   C:/MinGW/lib/gcc/mingw32/6.3.0/include/stddef.h
@@ -90,12 +93,12 @@ C:/Users/Eduardo/Desktop/pehsword/headers/signUpMenu.h:
 
 C:/MinGW/include/stdlib.h:
 
-C:/MinGW/include/conio.h:
-
 C:/MinGW/include/string.h:
 
 C:/MinGW/include/strings.h:
 
 C:/MinGW/include/wchar.h:
+
+C:/MinGW/include/conio.h:
 
 C:/Users/Eduardo/Desktop/pehsword/impl/utils.c:
